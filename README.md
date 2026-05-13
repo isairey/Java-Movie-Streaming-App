@@ -136,7 +136,7 @@ El sistema permite consultar películas mediante múltiples filtros y visualizar
 # 📂 Estructura del proyecto
 
 ```bash
-movie-streaming-app/
+Java-Movie-Streaming-App/
 │
 ├── src/
 ├── webapp/
@@ -167,7 +167,7 @@ movie-streaming-app/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-user/java-movie-streaming-app.git
+git clone https://github.com/isairey/Java-Movie-Streaming-App.git
 ```
 
 ---
@@ -308,7 +308,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## Java Movie Streaming Developers
+## Isai Reyes Developer
 
 Desarrolladores enfocados en plataformas multimedia usando Java, MySQL y tecnologías cloud.
 
